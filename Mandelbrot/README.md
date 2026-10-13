@@ -7,13 +7,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![macOS 12+](https://img.shields.io/badge/macOS-12.0+-blue.svg)](https://www.apple.com/macos/)
 [![Metal](https://img.shields.io/badge/Metal-GPU%20Accelerated-orange.svg)](https://developer.apple.com/metal/)
-[![GitHub release](https://img.shields.io/github/v/release/ProofOfReach/MandelbrotSaver)](https://github.com/ProofOfReach/MandelbrotSaver/releases)
+[![GitHub release](https://img.shields.io/github/v/release/ProofOfReach/MandelbrotMandalaScreensavers)](https://github.com/ProofOfReach/MandelbrotMandalaScreensavers/releases)
 
 **Real-time GPU-rendered Mandelbrot and Julia set screensaver for macOS**
 
 ### Quick Install
 
-[Download Latest Release](https://github.com/ProofOfReach/MandelbrotSaver/releases/latest) → Unzip → Double-click → Done
+[Download Latest Release](https://github.com/ProofOfReach/MandelbrotMandalaScreensavers/releases/latest) → Unzip → Double-click → Done
 
 </div>
 
@@ -77,7 +77,7 @@ That's it. Your Mac now has a continuously zooming fractal screensaver.
 
 No Xcode or developer tools required.
 
-1. Download `MandelbrotSaver.saver.zip` from [Releases](https://github.com/ProofOfReach/MandelbrotSaver/releases/latest)
+1. Download `MandelbrotSaver.saver.zip` from [Releases](https://github.com/ProofOfReach/MandelbrotMandalaScreensavers/releases/latest)
 2. Unzip the file
 3. Double-click `MandelbrotSaver.saver`
 4. Choose "Install for this user only" (or "Install for all users" if you have admin rights)
@@ -88,8 +88,8 @@ No Xcode or developer tools required.
 Requires Xcode with Metal compiler.
 
 ```bash
-git clone https://github.com/ProofOfReach/MandelbrotSaver.git
-cd MandelbrotSaver
+git clone https://github.com/ProofOfReach/MandelbrotMandalaScreensavers.git
+cd MandelbrotMandalaScreensavers
 ./build.sh --install
 ```
 
@@ -221,8 +221,8 @@ Or manually copy `MandelbrotSaver.saver` to `~/Library/Screen Savers/`.
 
 ### Still having issues?
 
-1. Search [existing issues](https://github.com/ProofOfReach/MandelbrotSaver/issues)
-2. Open a [new issue](https://github.com/ProofOfReach/MandelbrotSaver/issues/new) with:
+1. Search [existing issues](https://github.com/ProofOfReach/MandelbrotMandalaScreensavers/issues)
+2. Open a [new issue](https://github.com/ProofOfReach/MandelbrotMandalaScreensavers/issues/new) with:
    - macOS version
    - Mac model (Intel or Apple Silicon)
    - Screenshot of the problem

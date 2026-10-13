@@ -39,8 +39,8 @@ Requirements:
 - Xcode with the Metal toolchain
 
 ```bash
-git clone https://github.com/ProofOfReach/MandelbrotSaver.git
-cd MandelbrotSaver
+git clone https://github.com/ProofOfReach/MandelbrotMandalaScreensavers.git
+cd MandelbrotMandalaScreensavers
 ./build.sh --install
 ```
 
